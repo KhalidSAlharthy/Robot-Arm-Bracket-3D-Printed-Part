@@ -14,7 +14,6 @@ This project includes the 3D design and printing settings for a custom **robot a
 # Material Recommendation
 PETG : is a strong and slightly flexible material that offers excellent layer adhesion. It is resistant to impact and mechanical stress, making it ideal for functional parts. Unlike ABS, it doesn’t warp much during printing and is generally easier to work with, especially on open-frame printers. PETG is chosen for this project because it offers the best balance of strength, flexibility, and ease of printing — ideal for mechanical components like robot arm joints.
 
-This is a comparison between PETG and other common 3D printing materials:
 # 3D Printing Settings (AnkerMake Studio)
 
 Quality: 
